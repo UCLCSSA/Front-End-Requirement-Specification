@@ -11,18 +11,13 @@ NOT, RECOMMENDED, OPTIONAL, REQUIRED** as defined in [RFC2119](https://tools.iet
 
 #### Post Block Detail
 | Parameter  |    Format            |    Remarks          |
-|------------|----------------------|---------------------|
-|            |                      |                     |
-|            |                      |                     |
-|            |                      |                     |
-|            |                      |                     |
-- Title  
-- Selection  
-- Brief Text(Maximum 50 words or 3 lines)  
-- Pictures(Maximum Three Pictures)  
-- User Name  
-- Post Date  
-- Post Time  
+|:----------:|:--------------------:|:-------------------:|
+|Title       |                      |                     |
+|Brief Text  |                      |                     |
+|Pictures    |                      |                     |
+|User Name   |    FelixH            |                     |
+|Post Date   |    2019-2-31         |                     |
+|Post Time   |     15:17            |                     |
 
 #### Post Page Display    
 - First 4 Articles  
