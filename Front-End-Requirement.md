@@ -10,7 +10,12 @@ NOT, RECOMMENDED, OPTIONAL, REQUIRED** as defined in [RFC2119](https://tools.iet
 ### Post Page
 
 #### Post Block Detail
-
+| Parameter  |    Format            |    Remarks          |
+|------------|----------------------|---------------------|
+|            |                      |                     |
+|            |                      |                     |
+|            |                      |                     |
+|            |                      |                     |
 - Title  
 - Selection  
 - Brief Text(Maximum 50 words or 3 lines)  
