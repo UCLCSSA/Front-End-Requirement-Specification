@@ -72,3 +72,5 @@ Each time user swipe to the end of the page, resend the next 4 articles.
 |Suggestion     | Exit from north gate |                     |
 |Food Type      | Japanese             |                     |
 |Favorable Rate | 75%                  |                     | 
+|Location       | Warren Street 300    | From google map api |
+ 
