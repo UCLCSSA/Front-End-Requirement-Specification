@@ -28,9 +28,13 @@ Each time user swipe to the end of the page, resend the next 4 articles.
 
 #### Weather and Date  
 
-- Weather  
-- Date  
-- Suggest dressing  
+| Parameter      |    Format            |    Remarks          |
+|:-------------: |:--------------------:|:-------------------:|
+|Weather         |  Sunny               |                     |
+|Date            |  2019-2-3            |                     |
+|Suggest Dressing|  Shirt               |                     |
+|temperature     |  23 - 31 (℃)         |                     |
+  
 
 #### Events  
 
