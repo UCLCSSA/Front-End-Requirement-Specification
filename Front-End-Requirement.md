@@ -50,5 +50,9 @@ Each time user swipe to the end of the page, resend the next 4 articles.
 
 #### Library Seats
 
-- Library name  
-- Number of seats remaining  
+| Parameter     |    Format            |    Remarks          |
+|:-------------:|:--------------------:|:-------------------:|
+|Library        |  Science Library     |                     |
+|Number of seat |  234 left            |                     |
+
+ 
