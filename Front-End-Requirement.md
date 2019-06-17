@@ -60,3 +60,15 @@ Each time user swipe to the end of the page, resend the next 4 articles.
 |Number of seat |  234 left            |                     |
 
  
+### Restaurant Page  
+
+#### Restaruant Block Detail  
+
+| Parameter     |    Format            |    Remarks          |
+|:-------------:|:--------------------:|:-------------------:|
+|Payment Type(s)| Cash/Card            |  Cash,Card,Alipay   |
+|Restaurant Name| Wasabi               |                     |
+|Distance       | 230 m                | From main library   |
+|Suggestion     | Exit from north gate |                     |
+|Food Type      | Japanese             |                     |
+|Favorable Rate | 75%                  |                     | 
