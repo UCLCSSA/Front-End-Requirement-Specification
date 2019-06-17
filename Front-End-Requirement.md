@@ -39,11 +39,14 @@ Each time user swipe to the end of the page, resend the next 4 articles.
 
 #### Personal Timetable Block  
 
-- Start and End Time  
-- Lecture Type  
-- Lecture Name  
-- Lecture Hall
-- Professor Name  
+| Parameter     |    Format            |    Remarks          |
+|:-------------:|:--------------------:|:-------------------:|
+|Start/End Time |  16:00 - 18:00       |                     |
+|Lecture Type   |  Lecture             |                     |
+|Lecture Name   |  Logic               |                     |
+|Lecture Hall   |  JB Canteen          |                     |
+|Professor Name |  Felix Vldimear      |                     |
+
 
 #### Library Seats
 
